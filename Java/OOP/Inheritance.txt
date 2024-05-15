@@ -9,3 +9,5 @@ Diagram
 getClass().getSimpleName() methods
 public String toString() {
         return getClass().getSimpleName() + "{" +// instead of Animal, you should use these methods to get the class name at the beginning
+
+// new note
